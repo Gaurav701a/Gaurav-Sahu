@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Gaurav Sahu</h1>
 <h3 align="center">A passionate frontend developer with DSA Skills</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
